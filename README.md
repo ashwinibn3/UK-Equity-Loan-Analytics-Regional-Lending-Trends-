@@ -3,12 +3,12 @@ A Power BI dashboard that explores the UK Government’s Help to Buy equity loan
 
 ## Datasets Used
 ### `Dataset 1.csv`
--Detailed transaction-level loan data (2013–2019)
--Dimensions: FeatureCode, Loan Category, Date, Value
+- Detailed transaction-level loan data (2013–2019)
+- Dimensions: FeatureCode, Loan Category, Date, Value
 
 ### `Dataset 2.csv`
--Region-level summary data
--Includes: Region name, Total Loans, FTB Loans
+- Region-level summary data
+- Includes: Region name, Total Loans, FTB Loans
 
 ## Key Features & Skills Demonstrated
 - KPI Cards with custom DAX (FTB %, Total Loans, Risk Exposure)
@@ -18,16 +18,16 @@ A Power BI dashboard that explores the UK Government’s Help to Buy equity loan
 - Advanced DAX: SWITCH, DIVIDE, CALCULATE, TOPN logic
 
 ## Key Insights Extracted
-**FTB Share**: 81.26% of all equity loans were issued to First-Time Buyers.
-**Regional Hotspots**: Top 3 boroughs (Wiltshire, Central Bedfordshire, Wakefield) accounted for 4.39% of all lending.
-**Risk Signal**: Regions with high non-FTB lending rates were flagged as potentially over-leveraged or risky.
-**London View**: An interactive map helps isolate and drill down into London boroughs.
+- 81.26% of all equity loans were issued to First-Time Buyers nationally.
+- Wiltshire, Central Bedfordshire, and Wakefield accounted for 4.39% of total loan distribution.
+- Over 60% of loans were issued in just 100 out of 300+ regions, showing high regional concentration.
+- A London-focused interactive map allows users to drill down into borough-level loan trends.
 
 ## Outcome & Learning
--Improved my real-world Power BI dashboarding and financial storytelling  
--Learned to clean and model regional housing datasets  
--Developed KPI thinking using DAX  
--Gained confidence presenting geographic insights tailored to **lending institutions**
+- Improved my real-world Power BI dashboarding and financial storytelling  
+- Learned to clean and model regional housing datasets  
+- Developed KPI thinking using DAX  
+- Gained confidence in presenting geographic lending insights tailored to mortgage and finance institutions.
 
 ## Tools & Technologies
 - Power BI
