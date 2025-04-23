@@ -2,11 +2,11 @@
 A Power BI dashboard that explores the UK Government’s Help to Buy equity loan distribution, with a focus on **First-Time Buyer (FTB)** behavior, **regional credit risk**, and **lending penetration patterns** across 300+ UK boroughs.
 
 ## Datasets Used
-### 1. `Dataset 1.csv`
+### `Dataset 1.csv`
 -Detailed transaction-level loan data (2013–2019)
 -Dimensions: FeatureCode, Loan Category, Date, Value
 
-### 2. `Dataset 2.csv`
+### `Dataset 2.csv`
 -Region-level summary data
 -Includes: Region name, Total Loans, FTB Loans
 
